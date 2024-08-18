@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// this is a comment for commiting okay for sanskarrrr //////
+// this is a comment for commiting okay for sanskarrrr /////
 
 public class ArrayListExample {
     public static void main(String[] args) {
