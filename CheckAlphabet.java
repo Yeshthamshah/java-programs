@@ -5,8 +5,8 @@ public class CheckAlphabet {
         char c = 'h';
 
         if( (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
-            System.out.println(c + " is an alphabet.");
+            System.out.println(c + " is an alphabet");
         else
-            System.out.println(c + " is not an alphabet.");
+            System.out.println(c + " is not an alphabet");
     }
 }
