@@ -18,7 +18,7 @@ class Additionofmatrix {
     }
 
     // Function to add the two matrixes
-    // and store in matrix C
+    // store in matrix C
     static int[][] add(int A[][], int B[][],
                        int size)
     {
